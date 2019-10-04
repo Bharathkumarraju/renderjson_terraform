@@ -1,0 +1,13 @@
+[{
+  "Description": "DB endpoint",
+  "Name": "/app/python/DBHOST",
+  "Type": "String",
+  "Value": "test.mysql.com"
+},
+  {
+    "Description": "DB",
+    "Name": "/app/python/DB",
+    "Type": "String1",
+    "Value": "test.mysql"
+  }
+]
